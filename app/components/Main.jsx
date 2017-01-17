@@ -1,9 +1,11 @@
 import React from 'react';
+import Nav from 'Nav';
 
 let Main = props => {
     return (
         <div>
-            Main Component Rendered.
+          <Nav/>
+            Main Component of Timer App
             {props.children}
         </div>
     );
