@@ -1,4 +1,6 @@
-let expect = require('expect');
+// let expect = require('expect');
+import expect from 'expect';
+
 
 
 describe('App', () => {
